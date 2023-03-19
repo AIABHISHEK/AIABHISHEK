@@ -1,5 +1,11 @@
 # 💫 About Me:
-Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am backend developer with tech stack NodeJs, Express, MongoDB.<br>I have also experience with games development  with Unity. <br>🔭 I’m currently working on <br>👯 I’m looking for Summer Internship<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>     📃DevOps<br>     📃Game development<br>💬 Ask me about Web Technology, Games<br>⚡ Fun fact
+Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am backend developer with tech stack NodeJs, Express, MongoDB.<br>I have also experience with game development  with Unity. <br>
+<!-- 🔭 I’m currently working on <br> -->
+👯 I’m looking for Summer Internship<br>
+<!-- 🤝 I’m looking for help with<br> -->
+🌱 I’m currently learning<br>     📃DevOps<br>     📃Game development<br>
+💬 Ask me about Web Technology, Games<br>
+<!-- ⚡  -->
 
 
 ## 🌐 Socials:
