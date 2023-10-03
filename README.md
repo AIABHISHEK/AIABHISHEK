@@ -28,3 +28,4 @@ Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am b
 [![](https://visitcount.itsvg.in/api?id=aiabhishek&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @aiabhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiabhishek)](https://holopin.io/@aiabhishek)
