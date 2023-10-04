@@ -29,3 +29,5 @@ Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am b
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @aiabhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiabhishek)](https://holopin.io/@aiabhishek)
+## My [daily.dev](https://daily.dev) Card
+<a href="https://app.daily.dev/aiabhishek"><img src="https://api.daily.dev/devcards/0986064f123f4ab8ae937a5b9cafcd6a.png?r=adm" width="400" alt="Abhishek's Dev Card"/></a>
