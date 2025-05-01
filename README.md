@@ -1,12 +1,12 @@
 
 ## I'm ABHISHEK YADAV
 ## Backend Developer, Blockchain developer 👨‍💻
-Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am backend developer with tech stack NodeJs, Express, MongoDB.<br>I have also experience with blockchain development. <br>
+Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am backend developer<br>I have also experience with blockchain development. <br>
 <!-- 🔭 I’m currently working on <br> -->
-👯 I’m looking for Summer Internship<br>
+👯 I’m looking for Summer full-time role<br>
 <!-- 🤝 I’m looking for help with<br> -->
-🌱 I’m currently learning<br>     📃Foundary<br>     📃Python<br>
-💬 Ask me about Nodejs, Blockcahin development, Web Technology<br>
+🌱 I’m currently learning<br>     📃Go<br>
+💬 Ask me about Nodejs, Backend Dev, Software Design, Web Technology<br>
 <!-- ⚡  -->
 
 ## [Portfolio Website](https://aiabhishek.github.io)
