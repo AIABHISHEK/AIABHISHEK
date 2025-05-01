@@ -3,7 +3,7 @@
 ## Backend Developer, Blockchain developer 👨‍💻
 Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am backend developer<br>I have also experience with blockchain development. <br>
 <!-- 🔭 I’m currently working on <br> -->
-👯 I’m looking for Summer full-time role<br>
+👯 I’m looking for full-time role<br>
 <!-- 🤝 I’m looking for help with<br> -->
 🌱 I’m currently learning<br>     📃Go<br>
 💬 Ask me about Nodejs, Backend Dev, Software Design, Web Technology<br>
