@@ -5,7 +5,7 @@ Welcome to my Github! I'm Abhishek, a Information Technology student. <br>I am b
 <!-- 🔭 I’m currently working on <br> -->
 👯 I’m looking for full-time role<br>
 <!-- 🤝 I’m looking for help with<br> -->
-🌱 I’m currently learning<br>     📃Go<br>
+🌱 I’m currently learning<br>     📃Rust<br>
 💬 Ask me about Nodejs, Backend Dev, Software Design, Web Technology<br>
 <!-- ⚡  -->
 
